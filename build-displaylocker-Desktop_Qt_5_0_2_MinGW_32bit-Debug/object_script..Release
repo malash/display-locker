@@ -1,0 +1,14 @@
+INPUT(
+./release\controler.o
+./release\deamon.o
+./release\displaysettings.o
+./release\main.o
+./release\mainwindow.o
+./release\tray.o
+./release\qrc_res.o
+./release\moc_controler.o
+./release\moc_deamon.o
+./release\moc_displaysettings.o
+./release\moc_mainwindow.o
+./release\moc_tray.o
+);
